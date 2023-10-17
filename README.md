@@ -9,5 +9,6 @@ The structure is as follows:
 >As a **[video game class]** your preferred weapon is a **[weapon]** and your special skill is **[skill]**
 >This is the beginning of your grand quest to defeat **[enemy group]** and thwart **[villain]**'s plans to conquer the world.
 >Good luck!
+**[battlecry]**
 
 I will be utilising **Math.random** and **Math.floor** to generate random numbers which point to the index of elements in larger arrays containing options which will be subsituted in to their relavant places and printed to the user.
