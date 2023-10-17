@@ -1,0 +1,14 @@
+Project Plan - Random statement generator
+Write a sequence of statements which will start the same but have generated parts changing every time
+Video game character generator
+
+Your name is []
+You are a [video game race] from the land of [video game place]
+As a [video game class] your preferred weapon is a [weapon] and your special skill is [skill]
+This is the beginning of your grand quest to defeat [enemy group] and thwart [villain]'s plans to conquer the world.
+Good luck!
+
+make arrays containing strings for each [section] with multiple elements
+use math.floor(math.random*(element amount)) to select a sequence of random numbers the amount equalling how many sections [8] there are and log numbers to array
+use array to point to elements in each big array and save generated answers to an array
+return sentences with generated answers in their place to the user
