@@ -12,3 +12,7 @@ make arrays containing strings for each [section] with multiple elements
 use math.floor(math.random*(element amount)) to select a sequence of random numbers the amount equalling how many sections [8] there are and log numbers to array
 use array to point to elements in each big array and save generated answers to an array
 return sentences with generated answers in their place to the user
+
+Potential Ideas:
+Create a webpage to display the generator with the press of a button
+Store the arrays in an interesting way *nested array or separate files to declutter the main program*
